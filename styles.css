@@ -1,0 +1,57 @@
+body {
+  background-color: #212f3c;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  background-color: #fdfefe;
+  width: 500px;
+  height: 650px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.header {
+  padding-top: 20px;
+  padding-left: 10px;
+  display: flex;
+  flex-direction: row;
+  line-height: 20%;
+}
+
+.username {
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.option {
+  margin-left: auto;
+  padding-top: 2px;
+  padding-right: 15px;
+  font-size: 23px;
+}
+
+img {
+  width: 100%;
+}
+.icons {
+  padding-left: 10px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  letter-spacing: 5px;
+}
+.bookmark {
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.like {
+  padding-left: 10px;
+  color: #626567;
+}
+strong {
+  color: black;
+}
+.description {
+  padding-left: 10px;
+  color: #626567;
+}
